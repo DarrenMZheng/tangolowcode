@@ -1,0 +1,11 @@
+node_modules/
+dist/
+lib/
+coverage/
+
+/docs
+
+.umi/
+.umi-production/
+.log
+.eslintcache
